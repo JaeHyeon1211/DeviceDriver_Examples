@@ -1,0 +1,2 @@
+/home/ubuntu/udoo_linux_bsp/drivers/DeviceDriver_Examples/p333_kerneltimer/kerneltimer_dev.ko
+/home/ubuntu/udoo_linux_bsp/drivers/DeviceDriver_Examples/p333_kerneltimer/kerneltimer_dev.o
